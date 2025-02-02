@@ -1,0 +1,1 @@
+an end to end PDF question-and-answer system using Streamlit Langchain architecture, pinecone vector database for efficient data retrieval, and large language models (LLM) for intelligent query processing and response generation
