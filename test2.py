@@ -7,7 +7,7 @@ import os
 
 
 # Initialize OpenAI API
-openai.api_key = "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"
+openai.api_key = use your api key
 
 from pinecone import  ServerlessSpec
 
